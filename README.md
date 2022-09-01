@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Singh
 - 👀 I’m interested in Data science and Analytics 
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on real world problems and hackthons
+- 💞️ I’m looking to collaboration on real world problems and hackthons
 - 📫 How to reach me - harshpapratapsingh@gmail.com
 
 <!---
